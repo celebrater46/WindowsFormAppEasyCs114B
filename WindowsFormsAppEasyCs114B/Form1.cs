@@ -45,7 +45,7 @@ namespace WindowsFormsAppEasyCs114B
 
             bt = new Button();
             bt.Text = "Submit";
-            bt.Dock = DockStyle.Bottom;
+            bt.Dock = DockStyle.Bottom; 
 
             tb1.Parent = this;
             tb2.Parent = this;
